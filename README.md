@@ -637,20 +637,11 @@ a { text-decoration: none; } .p-page{ display: grid; grid-template-columns: auto
 
 ![Screenshot_20230129_124617](https://user-images.githubusercontent.com/118707090/215311345-e23af169-ba92-4faa-83ff-2e20f5e41d97.png)
 
-![Screenshot_20230129_124636](https://user-images.githubusercontent.com/118707090/215311431-ad310ad0-9441-4117-adc9-62d22759de2e.png)
+![Screenshot_20230129_125201](https://user-images.githubusercontent.com/118707090/215311520-db12ee34-9879-495b-88cf-d93570630a41.png)
 
 ![Screenshot_20230129_124656](https://user-images.githubusercontent.com/118707090/215311362-f0d8d6ca-eb33-4b6e-bfb1-57ef6b087a3a.png)
 
 ![Screenshot_20230129_124710](https://user-images.githubusercontent.com/118707090/215311374-a1004cf7-ab71-456d-b27e-cf460e53ad07.png)
-
-
-
-
-
-### Home Page:
-
-![output](./images/homepage.jpg)
-
 
 
 ## Result:
