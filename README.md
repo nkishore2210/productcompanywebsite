@@ -643,7 +643,5 @@ a { text-decoration: none; } .p-page{ display: grid; grid-template-columns: auto
 
 ![Screenshot_20230129_124710](https://user-images.githubusercontent.com/118707090/215311374-a1004cf7-ab71-456d-b27e-cf460e53ad07.png)
 
-
 ## Result:
-
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
